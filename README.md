@@ -14,4 +14,4 @@ This repository contains concise summaries, insights, and analysis of key resear
 ![CLIP Framework](https://github.com/openai/CLIP/blob/main/CLIP.png?raw=true)
 
 ### CLIP Interpretability 
-![CLIP Interpretability]([https://miro.medium.com/v2/resize:fit:1400/format:webp/1*tkGjH44kT-LPJSKqC9aCGw.png](https://github.com/yossigandelsman/clip_text_span/blob/main/images/teaser.png?raw=true))
+![CLIP Interpretability](https://github.com/yossigandelsman/clip_text_span/blob/main/images/teaser.png?raw=true)
